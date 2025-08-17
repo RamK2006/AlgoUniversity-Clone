@@ -6,10 +6,16 @@ function App() {
 
   return (
     <>
-      <div className='text-'>
-          <div>
-            <button></button>
-          </div>
+      <div className='bg-slate- '>
+        <div className='border-amber-100 bg-slate-800 text-shadow-white display' >
+          <div>AlgoPath</div>
+          <div>About</div>
+          <div>Dashboard</div>
+          <div>Blitz80</div>
+          <div>FAQ</div>
+          <button>Login</button>
+          <button>Register</button>
+        </div>
       </div>
       <div>
         <div>
